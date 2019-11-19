@@ -13,7 +13,7 @@ const HomePage = () => (
                         </span>
                 </div>
             </div>
-            <div className='menu-itm'>
+            <div className='menu-item'>
                 <div className='content'>
                     <h1 className='title'>
                         JACKERS
@@ -23,7 +23,7 @@ const HomePage = () => (
                         </span>
                 </div>
             </div>
-            <div className='menu-itm'>
+            <div className='menu-item'>
                 <div className='content'>
                     <h1 className='title'>
                         SNEAKERS
@@ -33,7 +33,7 @@ const HomePage = () => (
                         </span>
                 </div>
             </div>
-            <div className='menu-itm'>
+            <div className='menu-item'>
                 <div className='content'>
                     <h1 className='title'>
                         WOMENS
@@ -43,7 +43,7 @@ const HomePage = () => (
                         </span>
                 </div>
             </div>
-            <div className='menu-itm'>
+            <div className='menu-item'>
                 <div className='content'>
                     <h1 className='title'>
                         MENS
