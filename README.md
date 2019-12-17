@@ -1,3 +1,6 @@
+This app was deployed on heroku and is available at: https://crwn--live.herokuapp.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
